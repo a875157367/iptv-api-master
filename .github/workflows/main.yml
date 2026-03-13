@@ -36,7 +36,8 @@ jobs:
           pip install aiohttp
           
       - name: Update
-        run:  python ../main.py
+        working-directory: ./iptv-api-master
+        run:  python main.py
         
       - name: Commit and push if changed
         run: |
