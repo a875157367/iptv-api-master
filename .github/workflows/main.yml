@@ -8,9 +8,11 @@ on:
   workflow_dispatch:
 
 jobs:
-  push:
+  build:
     runs-on: ubuntu-latest
-    timeout-minutes: 120
+    permissions:
+      contents: write  # 添加写入权限
+      
     steps:
       - name: Run with setup-python 3.13
         uses: actions/setup-python@v4
