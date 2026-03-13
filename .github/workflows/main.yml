@@ -24,7 +24,15 @@ jobs:
         run: pipenv --python 3.13 && pipenv install --dev
       - name: Install dependecies
         run: pipenv --python 3.13 && pipenv install --deploy
-     
+      - name: install req
+        run: |
+          pip install tqdm
+          pip install flask
+          pip install pytz
+          pip install opencc-python-reimplemented
+          pip install m3u8
+          pip install aiohttp
+          
       - name: Update
         run:  pipenv run main
         
