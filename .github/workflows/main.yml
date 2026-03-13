@@ -49,7 +49,7 @@ jobs:
           pip install opencc-python-reimplemented
           pip install m3u8
           pip install aiohttp
-          
+          pip install requests
       - name: Update
         run:  python main.py
 
