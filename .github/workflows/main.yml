@@ -19,7 +19,10 @@ jobs:
         with:
           python-version: '3.13'
           update-environment: true
-     
+          
+      - name: Update
+        run:  python main.py
+        
       - name: Install FFmpeg
         run: sudo apt-get update && sudo apt-get install -y ffmpeg
       - name: Install pipenv
@@ -37,9 +40,7 @@ jobs:
           pip install m3u8
           pip install aiohttp
           
-      - name: Update
-        working-directory: ./iptv-api-master
-        run:  python main.py
+
         
       - name: Commit and push if changed
         run: |
