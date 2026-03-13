@@ -34,7 +34,7 @@ jobs:
           pip install aiohttp
           
       - name: Update
-        run:  pipenv run main
+        run:  python main.py
         
       - name: Commit and push if changed
         run: |
