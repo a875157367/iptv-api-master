@@ -50,6 +50,7 @@ jobs:
           pip install m3u8
           pip install aiohttp
           pip install requests
+          pip install bs4
       - name: Update
         run:  python main.py
 
