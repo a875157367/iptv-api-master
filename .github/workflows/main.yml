@@ -20,11 +20,13 @@ jobs:
         run: sudo apt-get update && sudo apt-get install -y ffmpeg
       - name: Install pipenv
         run: pip3 install --user pipenv
+      - name: Install dependencies with pipenv
+        run: pipenv --python 3.13 && pipenv install --dev
       - name: Install dependecies
         run: pipenv --python 3.13 && pipenv install --deploy
      
       - name: Update
-        run: python main.py
+        run:  pipenv run dev
         
       - name: Commit and push if changed
         run: |
