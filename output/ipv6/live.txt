@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-03-11 23:45:30,http://localhost:8000/live/6440703838588595427
+2026-03-15 18:26:39,http://localhost:8000/live/6440703838588595427
 
 📺央视频道,#genre#
 CCTV-1,http://localhost:8000/live/6440703838588595427
@@ -1016,6 +1016,7 @@ CETV4,http://localhost:8000/live/6656200650603327045
 攀枝花新闻综合,http://localhost:8000/live/4349967477808980358
 旺苍新闻综合,http://localhost:8000/live/3815033407485537590
 旺苍新闻综合,http://localhost:8000/live/6761008325823735625
+旺苍新闻综合,http://localhost:8000/live/8126636702712096347
 松潘新闻综合,http://localhost:8000/live/3815033407485537590
 汉源综合,http://localhost:8000/live/5640315309574863311
 汶川新闻综合,http://localhost:8000/live/-6596196723912891522
