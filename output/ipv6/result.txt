@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-08-19 09:24:52,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
+2026-08-19 21:24:55,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
@@ -1451,6 +1451,7 @@ CCTV-15,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010094/inde
 
 🏛经典剧场,#genre#
 笑傲江湖,http://live.metshop.top/huya/26355790
+笑傲江湖,https://live.metshop.top/huya/23865142
 天龙八部,https://live.metshop.top/huya/23903123
 鹿鼎记,http://luobo.bkpcp.top/yy/1382704650
 鹿鼎记,http://live.iill.top/yy.php?id=1382704650
