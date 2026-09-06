@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20260906103331 +0800">
+<tv date="20260906151205 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -41481,9 +41481,6 @@
 	<programme channel="梨园" start="20260907000500 +0800" stop="20260907022000 +0800">
 		<title lang="zh">丝弦:宗泽与岳飞</title>
 	</programme>
-	<programme channel="梨园" start="20260907000500 +0800" stop="20260907022000 +0800">
-		<title lang="zh">丝弦:宗泽与岳飞</title>
-	</programme>
 	<programme channel="梨园" start="20260907022000 +0800" stop="20260907032600 +0800">
 		<title lang="zh">刘公传奇</title>
 	</programme>
@@ -41501,6 +41498,9 @@
 	</programme>
 	<programme channel="梨园" start="20260907122300 +0800" stop="20260907132300 +0800">
 		<title lang="zh">刘公传奇</title>
+	</programme>
+	<programme channel="梨园" start="20260907132300 +0800" stop="20260907153700 +0800">
+		<title lang="zh">豫剧:梵王宫-吴素真</title>
 	</programme>
 	<programme channel="梨园" start="20260907132300 +0800" stop="20260907153700 +0800">
 		<title lang="zh">豫剧:梵王宫-吴素真</title>
