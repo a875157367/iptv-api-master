@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20260916110719 +0800">
+<tv date="20260916162611 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -41312,6 +41312,27 @@
 	</programme>
 	<programme channel="梨园" start="20260918000500 +0800" stop="20260918022000 +0800">
 		<title lang="zh">豫剧:大河安澜</title>
+	</programme>
+	<programme channel="梨园" start="20260918022000 +0800" stop="20260918032600 +0800">
+		<title lang="zh">刘公传奇</title>
+	</programme>
+	<programme channel="梨园" start="20260918032600 +0800" stop="20260918054000 +0800">
+		<title lang="zh">曲剧:医圣仲景</title>
+	</programme>
+	<programme channel="梨园" start="20260918054000 +0800" stop="20260918075400 +0800">
+		<title lang="zh">豫剧:红梅记</title>
+	</programme>
+	<programme channel="梨园" start="20260918075400 +0800" stop="20260918100800 +0800">
+		<title lang="zh">曲剧:医圣仲景</title>
+	</programme>
+	<programme channel="梨园" start="20260918100800 +0800" stop="20260918122300 +0800">
+		<title lang="zh">豫剧:大河安澜</title>
+	</programme>
+	<programme channel="梨园" start="20260918122300 +0800" stop="20260918132300 +0800">
+		<title lang="zh">刘公传奇</title>
+	</programme>
+	<programme channel="梨园" start="20260918132300 +0800" stop="20260918153700 +0800">
+		<title lang="zh">豫剧:红梅记</title>
 	</programme>
 	<channel id="江苏卫视">
 		<display-name lang="zh">江苏卫视</display-name>
