@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20260927114138 +0800">
+<tv date="20260927164130 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -40800,9 +40800,6 @@
 	<programme channel="梨园" start="20260928000500 +0800" stop="20260928022000 +0800">
 		<title lang="zh">评剧:柳毅传书</title>
 	</programme>
-	<programme channel="梨园" start="20260928000500 +0800" stop="20260928022000 +0800">
-		<title lang="zh">评剧:柳毅传书</title>
-	</programme>
 	<programme channel="梨园" start="20260928022000 +0800" stop="20260928032600 +0800">
 		<title lang="zh">刘公传奇</title>
 	</programme>
@@ -40820,6 +40817,9 @@
 	</programme>
 	<programme channel="梨园" start="20260928122300 +0800" stop="20260928132300 +0800">
 		<title lang="zh">呼杨侠义传</title>
+	</programme>
+	<programme channel="梨园" start="20260928132300 +0800" stop="20260928153700 +0800">
+		<title lang="zh">豫剧:黄桂英</title>
 	</programme>
 	<programme channel="梨园" start="20260928132300 +0800" stop="20260928153700 +0800">
 		<title lang="zh">豫剧:黄桂英</title>
