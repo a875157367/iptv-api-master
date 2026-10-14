@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20261014112953 +0800">
+<tv date="20261014164959 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -42137,6 +42137,24 @@
 	</programme>
 	<programme channel="梨园" start="20261016000500 +0800" stop="20261016022600 +0800">
 		<title lang="zh">评剧:稻香潮白</title>
+	</programme>
+	<programme channel="梨园" start="20261016022600 +0800" stop="20261016044000 +0800">
+		<title lang="zh">豫剧:洛阳桥-曾广兰</title>
+	</programme>
+	<programme channel="梨园" start="20261016044000 +0800" stop="20261016065400 +0800">
+		<title lang="zh">越调:白奶奶醉酒</title>
+	</programme>
+	<programme channel="梨园" start="20261016065400 +0800" stop="20261016090800 +0800">
+		<title lang="zh">豫剧:洛阳桥-曾广兰</title>
+	</programme>
+	<programme channel="梨园" start="20261016090800 +0800" stop="20261016112300 +0800">
+		<title lang="zh">评剧:稻香潮白</title>
+	</programme>
+	<programme channel="梨园" start="20261016112300 +0800" stop="20261016125300 +0800">
+		<title lang="zh">五子登科</title>
+	</programme>
+	<programme channel="梨园" start="20261016125300 +0800" stop="20261016153700 +0800">
+		<title lang="zh">越调:白奶奶醉酒</title>
 	</programme>
 	<channel id="江苏卫视">
 		<display-name lang="zh">江苏卫视</display-name>
